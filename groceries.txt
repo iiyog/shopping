@@ -1,6 +1,3 @@
 eggs
-milk
-sourkraut
-kombucha
-raw cheese
-raw milk
+ketchup
+
